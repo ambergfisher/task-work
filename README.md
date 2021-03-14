@@ -1,4 +1,4 @@
-# Work completed shown in images
+# Work completed shown in images & videos
 1. Multi-language functionality (shown in a few different photos; languages supported: English, Thai, Chinese, Khmar (Cambodian))
 2. Message button & related UI (one of the videos)
 3. Timeline payment UI (originally it was just the top line of text)
